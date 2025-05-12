@@ -1,0 +1,9 @@
+
+//How the input should look for postman
+http://localhost:3000/add-Reminder
+
+{
+    "remiPetId": #,
+    "remiDesc": "something here",
+    "remiDnT": "something here"
+}
